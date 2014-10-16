@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thurs4
+#
+
+projectname: thurs4
+vendorid: com.mycompany
+mainmodule: com.mycompany.thurs4
